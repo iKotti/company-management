@@ -2,7 +2,9 @@
 
 ### Kullanılan Teknolojiler
 ![Java-Icon](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Postgre-Icon](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgre-Icon](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br>
+<img src="https://user-images.githubusercontent.com/58571709/130687832-c3ec4f4f-27ac-4505-a7fb-a82cc7fd0d94.png" width="200px"/>
+
 
 ### Ekran Resimleri
 ![1](https://user-images.githubusercontent.com/58571709/129365890-31558106-54ef-47aa-a20a-4d2dc7e46467.png)
